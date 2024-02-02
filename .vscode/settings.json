@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "palloc.h": "c"
+    },
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+}
